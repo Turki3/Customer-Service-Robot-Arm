@@ -8,6 +8,6 @@ Customer service robot arm movements design and simulation by tinkercad.
 - Arduino Uno R3 with breadboard
 
 # Movements: 
-1- First Movement: Shake hands with customer. 
-2- Second Movement: Wave with its both hands.
-3- Third Movement: Thumbs Up after the customer finish.
+- First Movement: Shake hands with customer. 
+- Second Movement: Wave with its both hands.
+- Third Movement: Thumbs Up after the customer finish.
